@@ -1,0 +1,18 @@
+html{
+    scroll-behavior: smooth;
+}
+.navbar{
+    border-bottom: 3px solid #0669d3;
+}
+.home-section{
+    background: url(https://mskshohan.github.io/looplab/home.jpg) no-repeat top center;
+    background-size: cover;
+  
+   
+}
+.home-section .dark-overlay{
+    background: rgba(0, 0, 0,0.7);
+}
+.home-section .fa{
+    font-size: 23px;
+}
